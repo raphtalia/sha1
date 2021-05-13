@@ -1,0 +1,14 @@
+{
+    "name": "SHA1 - Testing",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+
+            "SHA1": {
+                "$path": "src"
+            }
+        }
+    }
+}

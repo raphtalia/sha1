@@ -1,5 +1,3 @@
-local bit32 = require "bit32"
-
 local ops = {}
 
 local band = bit32.band
